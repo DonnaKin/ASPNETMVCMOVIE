@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Project\\MvcMovie\\.git\\ASPNETMVCMOVIE\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\Project\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Project\\MvcMovie\\.git\\ASPNETMVCMOVIE\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\mkkim\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Project\\MvcMovie\\.git\\ASPNETMVCMOVIE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mkkim\\AppData\\Roaming\\NuGet\\NuGet.Config",
